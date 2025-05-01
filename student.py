@@ -4,7 +4,7 @@ import pandas as pd
 
 st.title("Students_performance analysis")
 
-connect=mysql.connector.connect(host="localhost",user="root",password="sakthi7",database="students")
+connect=mysql.connector.connect(host="localhost",user="root",password=" ",database="students")
 if connect:
     print("connect")
 else:
