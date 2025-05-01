@@ -2,7 +2,7 @@
 Student habits performance analysis using mysql in python to store data then connect to python to retrive data
 
 Data collection:
-Student habits performance dataset collected from kaggle.
+Student habits performance dataset (1000 data) collected from kaggle.
 
 Data handle:
 Pandas to read the dataset using python.
