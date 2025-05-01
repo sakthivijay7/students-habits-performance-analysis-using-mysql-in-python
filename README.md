@@ -17,11 +17,15 @@ Data retrive:
 SQL query to retrive data also streamlit ui for visual understand.
 
 Streamlit:
+
 ![ui](https://github.com/user-attachments/assets/c2043bdc-622b-46eb-ad5d-dc97c8e26907)
+
 ![retrive data](https://github.com/user-attachments/assets/7ae588c2-f86f-4da7-8a2f-ef6b5c808159)
 
 Bar char:
+
 ![study](https://github.com/user-attachments/assets/15a9dd4a-a276-4955-a0b5-b77e22ed5ec1)
+
 Students who are more then spend in the studying they are got 100% exam score and mostly female got exam score 100%.
 
 
