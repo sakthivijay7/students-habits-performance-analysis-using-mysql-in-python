@@ -26,7 +26,7 @@ Bar char:
 
 ![study](https://github.com/user-attachments/assets/15a9dd4a-a276-4955-a0b5-b77e22ed5ec1)
 
-Students who are more then spend in the studying they are got 100% exam score and mostly female got exam score 100%.
+Students who are more then spend in their studies they are got 100% exam score and mostly female got exam score 100%.
 
 
 
